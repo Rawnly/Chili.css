@@ -8,12 +8,12 @@ You can get **Chili** downloading latest varsion on [GitHub page](http://github.
 or include this **CDN**
 
 ```html
-    <link rel="stylesheet" href="undefined" >
+    <link rel="stylesheet" href="https://rawgit.com/Rawnly/Chili.css/master/dist/chili.css" >
 ```
 
 Manual Compile
 -------
-Download or Clone this repo and enter this command `npm install && gulp`. You need `gulp-cli`.
+Download or Clone this repo and enter this command `npm install && gulp`. You need **gulp-cli** installed.
 
 TODO
 ---
