@@ -17,7 +17,7 @@ Download or Clone this repo and enter this command `npm install && gulp`. You ne
 
 TODO
 ---
-* Update this file with a full guide.
+* Update this file with a full guide
 
 <!-- Usage
 ===== -->
