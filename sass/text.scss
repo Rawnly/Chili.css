@@ -16,7 +16,10 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Roboto Slab', sans-serif;
+  color : "#333";
+  cursor : "auto";
+  font-weight : "500";
 }
 
 h1 { font-size: 4.8em; } // 86px
@@ -29,6 +32,7 @@ h6 { font-size: 1.5em; } // 27px
 p,
 article,
 aside {
+  color : "#333";
   font-family: 'Exo 2', sans-serif;
   font-weight: 500;
 }
@@ -63,6 +67,7 @@ p {
 
 .roboto-slab {
     font-family: 'Roboto Slab', serif;
+    font-weight : "500";
 }
 
 .exo2 {
@@ -178,11 +183,11 @@ a.animated {
 a.animated.dark {
     cursor         : pointer;
     position       : relative;
-    color          : #fff;
+    color          : #333;
     text-decoration: none;
 
     &:hover {
-        color: #fff;
+        color: #333;
     }
 
     &:before {
@@ -192,7 +197,7 @@ a.animated.dark {
         height            : 2px;
         bottom            : 0;
         left              : 0;
-        background-color  : #fff;
+        background-color  : #333;
         visibility        : hidden;
         -webkit-transform : scaleX(0);
         transform         : scaleX(0);
